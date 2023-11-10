@@ -24,7 +24,7 @@
     "@zxcvbn-ts/language-en": "^2.0.1",
     "analytics": "^0.8.0",
     "anser": "^1.4.8",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "bluebird": "^3.5.5",
     "classnames": "^2.2.6",
     "connected-react-router": "^6.9.1",
